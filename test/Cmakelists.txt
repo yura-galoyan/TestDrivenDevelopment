@@ -1,0 +1,21 @@
+# Include directories
+include_directories(../src)
+
+include_directories(${CMAKE_SOURCE_DIR}/test/gTest/googletest/include)
+
+set(GTEST_INCLUDE_DIR ${CMAKE_SOURCE_DIR}/test/gTest/googletest/include)
+set(GTEST_LIBRARY ${CMAKE_SOURCE_DIR}/test/gTest/build/lib/libgtest.a)
+set(GTEST_MAIN_LIBRARY ${CMAKE_SOURCE_DIR}/test/gTest/build/lib/libgtest.a)
+set(SRC ../src)
+
+# Locate GTest
+find_package(GTest REQUIRED)
+
+# Add test executable
+add_executable(MyTests test.cpp test2.cpp ${SRC}/add.cpp)
+
+# Link test executable with GTest and pthread
+target_link_libraries(MyTests GTest::GTest GTest::Main)
+
+# Add a test
+add_test(NAME MyTest COMMAND MyTests)

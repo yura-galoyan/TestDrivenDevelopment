@@ -1,0 +1,8 @@
+C:/Users/galoyan/Desktop/personal/TDD/build/CMakeFiles/edit_cache.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/CMakeFiles/rebuild_cache.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/src/CMakeFiles/game.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/src/CMakeFiles/edit_cache.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/test/CMakeFiles/MyTests.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/test/CMakeFiles/edit_cache.dir
+C:/Users/galoyan/Desktop/personal/TDD/build/test/CMakeFiles/rebuild_cache.dir

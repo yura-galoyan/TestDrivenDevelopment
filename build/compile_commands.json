@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/galoyan/Desktop/personal/TDD/build/src",
+  "command": "C:\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\game.dir\\main.cpp.obj -c C:\\Users\\galoyan\\Desktop\\personal\\TDD\\src\\main.cpp",
+  "file": "C:/Users/galoyan/Desktop/personal/TDD/src/main.cpp",
+  "output": "src/CMakeFiles/game.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/galoyan/Desktop/personal/TDD/build/src",
+  "command": "C:\\mingw32\\bin\\g++.exe   -g -o CMakeFiles\\game.dir\\add.cpp.obj -c C:\\Users\\galoyan\\Desktop\\personal\\TDD\\src\\add.cpp",
+  "file": "C:/Users/galoyan/Desktop/personal/TDD/src/add.cpp",
+  "output": "src/CMakeFiles/game.dir/add.cpp.obj"
+},
+{
+  "directory": "C:/Users/galoyan/Desktop/personal/TDD/build/test",
+  "command": "C:\\mingw32\\bin\\g++.exe  @CMakeFiles/MyTests.dir/includes_CXX.rsp -g -o CMakeFiles\\MyTests.dir\\test.cpp.obj -c C:\\Users\\galoyan\\Desktop\\personal\\TDD\\test\\test.cpp",
+  "file": "C:/Users/galoyan/Desktop/personal/TDD/test/test.cpp",
+  "output": "test/CMakeFiles/MyTests.dir/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/galoyan/Desktop/personal/TDD/build/test",
+  "command": "C:\\mingw32\\bin\\g++.exe  @CMakeFiles/MyTests.dir/includes_CXX.rsp -g -o CMakeFiles\\MyTests.dir\\test2.cpp.obj -c C:\\Users\\galoyan\\Desktop\\personal\\TDD\\test\\test2.cpp",
+  "file": "C:/Users/galoyan/Desktop/personal/TDD/test/test2.cpp",
+  "output": "test/CMakeFiles/MyTests.dir/test2.cpp.obj"
+},
+{
+  "directory": "C:/Users/galoyan/Desktop/personal/TDD/build/test",
+  "command": "C:\\mingw32\\bin\\g++.exe  @CMakeFiles/MyTests.dir/includes_CXX.rsp -g -o CMakeFiles\\MyTests.dir\\__\\src\\add.cpp.obj -c C:\\Users\\galoyan\\Desktop\\personal\\TDD\\src\\add.cpp",
+  "file": "C:/Users/galoyan/Desktop/personal/TDD/src/add.cpp",
+  "output": "test/CMakeFiles/MyTests.dir/__/src/add.cpp.obj"
+}
+]
